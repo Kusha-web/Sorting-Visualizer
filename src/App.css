@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.visual {
+  padding: 30px;
+}
+
+.array-container {
+  margin-top: 100px;
+}
+
+.array-bar {
+  width: 10px;
+  background-color: blueviolet;
+  display: inline-block;
+  margin: 0 1px;
+}
